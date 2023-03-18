@@ -1,6 +1,6 @@
 body {
-  background-color: #F5F5F5;
-  color: #555;
+  background-color: #daaccd;
+  color: white;
   font-size: 1.1em;
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
   width: 100%;
@@ -11,9 +11,12 @@ body {
 
 h1 {
   text-align: center;
+  color: black;
 }
 
 h2 {
+  text-align: center;
+  color: black;
   margin: 0;
   margin-bottom: 15px;
 }
@@ -24,10 +27,12 @@ main {
 
 p {
   text-align: "left";
+  color: #440632;;
+
 }
 
 section {
-  border: thick double #32a1ce;;
+  border: thick double #440632;;
   margin-bottom: 30px;
   width: 50%;
 }
